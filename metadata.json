@@ -1,0 +1,9 @@
+{
+  "name": "OmniGen AI",
+  "description": "A comprehensive AI suite featuring OmniGen 2.5 and 3.0 models. Includes Live Audio conversations, Veo video generation, Pro image creation, grounded search/maps, and advanced media analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
